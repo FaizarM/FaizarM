@@ -9,4 +9,3 @@
 📫 How to reach me:
 - GitHub: https://github.com/FaizarM
 - Email: formula1patty@gmail.com
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
