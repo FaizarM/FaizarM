@@ -19,6 +19,7 @@
 
 ### 🚀 Featured Projects
 🔹 [Rakamin Data Science Internship](https://drive.google.com/drive/folders/1demEFp_i47EC8sJCocU9ubAeEQthUYR_?usp=sharing) – Built a Credit Risk Prediction model using Logistic Regression & Random Forest.
+
 🔹 [Kopi Kuy Website](https://faizarm.github.io/kopikuy) – Designed and developed a responsive website for a coffee brand using HTML, CSS, and JavaScript.
 
 ---
