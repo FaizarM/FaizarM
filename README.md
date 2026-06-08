@@ -1,12 +1,10 @@
-## Muhammad Fariz Abizar
+## **AI / Machine Learning Engineer.** 
 
-**AI / Machine Learning Engineer.**
-
-I build end-to-end machine learning systems with a focus on production: experiment tracking, CI/CD, containerized deployment, live monitoring, and local-first AI. Currently open to Machine Learning Engineer roles. Based in Indonesia.
+I build end-to-end machine learning systems with a focus on production: experiment tracking, CI/CD, containerized deployment, live monitoring, and local-first AI. Currently open to Machine Learning Engineer roles. Based in Palembang, Indonesia.
 
 - Focus areas: MLOps, deep learning, time series forecasting, applied LLMs
-- Education: B.Sc. in Computer Science - Data Science, BINUS University
-- Experience: Ex-intern at Telkom Indonesia (data validation) and ID/X Partners x Rakamin Academy (project-based internship)
+- Education: Computer Science - Data Science, BINUS University
+- Experience: Ex-intern at Telkom Indonesia - Data Validation and ID/X Partners x Rakamin Academy - Project based Internship
 
 [LinkedIn](https://www.linkedin.com/in/fariz-abizar/) &nbsp;|&nbsp; [Email](mailto:muhammadfarizabizar@gmail.com)
 
@@ -60,13 +58,12 @@ I build end-to-end machine learning systems with a focus on production: experime
 
 ### Certifications
 
-- Associate Data Scientist, certified by Komdigi
-- AWS re/Start Graduate
-- AWS Academy Graduate: Cloud Foundations
-- AWS Educate: Introduction to Generative AI
+BNSP - Associate Data Scientist, certified by Komdigi
 
----
+Verified AWS credentials:
 
-### GitHub activity
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizarM&layout=compact&hide_border=true)
+<a href="https://www.credly.com/badges/be89744f-37c1-466b-9a80-87fdec57c8ec/public_url"><img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Graduate" width="110"/></a>
+&nbsp;
+<a href="https://www.credly.com/badges/bdeb260d-d094-40f6-8cca-70482124137f/public_url"><img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" alt="AWS Academy Graduate: Cloud Foundations" width="110"/></a>
+&nbsp;
+<a href="https://www.credly.com/badges/a345e50a-7f8a-4982-beaa-957bc8e6776c/public_url"><img src="https://images.credly.com/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" alt="AWS Educate: Introduction to Generative AI" width="110"/></a>
