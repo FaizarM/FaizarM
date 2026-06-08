@@ -1,33 +1,72 @@
-# Hi there, I'm Faizar 👋
+## Muhammad Fariz Abizar
 
-🎓 Currently pursuing a **Bachelor's degree in Data Science** at BINUS Online  
-📊 Certified **Associate Data Scientist**  
-☁️ Completed **AWS Cloud Foundations** and skilled in **SQL, Python, MongoDB**  
-📌 Project-based internship @ **ID/X Partners X Rakamin Academy**  
-📡 Ex-Intern @ **Telkom Indonesia – Data Validation & Network System Admin**  
+**AI / Machine Learning Engineer.**
 
----
+I build end-to-end machine learning systems with a focus on production: experiment tracking, CI/CD, containerized deployment, live monitoring, and local-first AI. Currently open to Machine Learning Engineer roles. Based in Indonesia.
 
-## 🛠 Tech Stack
-- **Languages**: Python, SQL, JavaScript  
-- **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Database**: MongoDB, MySQL  
-- **Cloud**: AWS (Cloud Foundations, GenAI)  
-- **Tools**: Git, Jupyter Notebook, Excel  
+- Focus areas: MLOps, deep learning, time series forecasting, applied LLMs
+- Education: B.Sc. in Computer Science - Data Science, BINUS University
+- Experience: Ex-intern at Telkom Indonesia (data validation) and ID/X Partners x Rakamin Academy (project-based internship)
+
+[LinkedIn](https://www.linkedin.com/in/fariz-abizar/) &nbsp;|&nbsp; [Email](mailto:muhammadfarizabizar@gmail.com)
 
 ---
 
-### 🚀 Featured Projects
-🔹 [Rakamin Data Science Internship](https://drive.google.com/drive/folders/1demEFp_i47EC8sJCocU9ubAeEQthUYR_?usp=sharing) – Built a Credit Risk Prediction model using Logistic Regression & Random Forest.
+### Selected projects
 
-🔹 [Kopi Kuy Website](https://faizarm.github.io/kopikuy) – Designed and developed a responsive website for a coffee brand using HTML, CSS, and JavaScript.
+| Project | Summary | Stack |
+| --- | --- | --- |
+| [Local AI Data Analyst](https://github.com/FaizarM/Local-AI-Data-Analyst) | Agentic AI analyst that turns plain English questions into SQL, runs them against a local database, self-corrects failed queries, and returns a table plus an interactive chart. Runs fully local through Ollama, so no business data ever leaves the machine. | Ollama (qwen2.5-coder), SQLite, Streamlit, Plotly |
+| [MLOps Obesity Classification](https://github.com/FaizarM/MLOps-Obesity-Classification) | End-to-end MLOps pipeline for obesity classification with experiment tracking, CI/CD, containerized serving, and a live monitoring dashboard with alerting rules. | MLflow, DagsHub, Docker, GitHub Actions, Prometheus, Grafana |
+| [Intel Image Classification](https://github.com/FaizarM/Intel-Image-Classification-Project) | Scene classifier across 6 classes (around 17K images) using MobileNetV2 transfer learning with two phase fine tuning. 93.4% test accuracy, exported to SavedModel, TFLite, and TensorFlow.js. | TensorFlow, Keras |
+| [Bitcoin Price Forecasting](https://github.com/FaizarM/bitcoin-forecasting) | Multi-horizon Bitcoin price forecaster using a Seq2Seq LSTM with a custom Multi-Head Attention layer and a training loop built from scratch on the TensorFlow low-level API. | TensorFlow, Keras, Pandas |
+| [Credit Risk Prediction](https://github.com/FaizarM/credit-risk-prediction) | Credit default risk model on the LendingClub loan dataset, covering EDA, feature engineering, and model training with Logistic Regression and Random Forest. | Scikit-learn, Pandas, NumPy |
 
 ---
 
-## 📫 Connect with Me
-- 📧 Email: **muhammadfarizabizar@gmail.com**  
-- 💼 LinkedIn: [Muhammad Fariz Abizar](https://www.linkedin.com/in/muhammad-fariz-abizar-033734310)  
+### Tech stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Machine learning and deep learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**MLOps and deployment**
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+**Data and cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-⭐️ *Always learning, always building data-driven solutions.*
+### Certifications
+
+- Associate Data Scientist, certified by Komdigi
+- AWS re/Start Graduate
+- AWS Academy Graduate: Cloud Foundations
+- AWS Educate: Introduction to Generative AI
+
+---
+
+### GitHub activity
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizarM&layout=compact&hide_border=true)
